@@ -1,0 +1,10 @@
+C:\Users\danut\source\repos\Assistant\Assistant\bin\Debug\Assistant.exe.config
+C:\Users\danut\source\repos\Assistant\Assistant\bin\Debug\Assistant.exe
+C:\Users\danut\source\repos\Assistant\Assistant\bin\Debug\Assistant.pdb
+C:\Users\danut\source\repos\Assistant\Assistant\obj\Debug\Assistant.csprojAssemblyReference.cache
+C:\Users\danut\source\repos\Assistant\Assistant\obj\Debug\Assistant.Form1.resources
+C:\Users\danut\source\repos\Assistant\Assistant\obj\Debug\Assistant.Properties.Resources.resources
+C:\Users\danut\source\repos\Assistant\Assistant\obj\Debug\Assistant.csproj.GenerateResource.cache
+C:\Users\danut\source\repos\Assistant\Assistant\obj\Debug\Assistant.csproj.CoreCompileInputs.cache
+C:\Users\danut\source\repos\Assistant\Assistant\obj\Debug\Assistant.exe
+C:\Users\danut\source\repos\Assistant\Assistant\obj\Debug\Assistant.pdb
